@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using RedisCachingProject.Cache;
 using RedisCachingProject.Cache.Attributes;
 using RedisCachingProject.DTO;
@@ -26,7 +27,7 @@ public class PersonController: ControllerBase
         return Ok(await _personService.Get());
     }
     
-    
+    [Authorize]
     [HttpGet("{id}")]
     [Cached(90)]
     public async Task<ActionResult<PersonResult>> GetPerson(long id)

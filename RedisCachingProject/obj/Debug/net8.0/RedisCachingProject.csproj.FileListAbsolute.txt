@@ -46,3 +46,12 @@ C:\Builds\RedisCachingProject\RedisCachingProject\obj\Debug\net8.0\RedisCachingP
 C:\Builds\RedisCachingProject\RedisCachingProject\obj\Debug\net8.0\ref\RedisCachingProject.dll
 C:\Builds\RedisCachingProject\RedisCachingProject\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Builds\RedisCachingProject\RedisCachingProject\bin\Debug\net8.0\StackExchange.Redis.Extensions.dll
+C:\Builds\RedisCachingProject\RedisCachingProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Builds\RedisCachingProject\RedisCachingProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Builds\RedisCachingProject\RedisCachingProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Builds\RedisCachingProject\RedisCachingProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Builds\RedisCachingProject\RedisCachingProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Builds\RedisCachingProject\RedisCachingProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Builds\RedisCachingProject\RedisCachingProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Builds\RedisCachingProject\RedisCachingProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Builds\RedisCachingProject\RedisCachingProject\obj\Debug\net8.0\RedisCachingProject.sourcelink.json
